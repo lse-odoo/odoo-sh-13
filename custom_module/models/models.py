@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+import numpy
 # from odoo import models, fields, api
 
 
