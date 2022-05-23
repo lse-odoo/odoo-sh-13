@@ -1,0 +1,3 @@
+[submodule "lse-odoo/dummy-submodule"]
+	path = lse-odoo/dummy-submodule
+	url = git@github.com:lse-odoo/dummy-submodule.git
